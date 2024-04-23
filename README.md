@@ -1,6 +1,3 @@
----
-title: Holy Moly
----
 
 # Patrick Fowler
 patrick.fowler@protonmail.com
