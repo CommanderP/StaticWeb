@@ -1,8 +1,7 @@
-**Patrick Fowler**
-patrick.fowler@protonmail.com | 636.489.9461
+# Patrick Fowler
+patrick.fowler@protonmail.com | 636-489-9461
 
 ---
-
 **Professional Experience**
 
 **Role Title**  
