@@ -1,9 +1,9 @@
 # Patrick Fowler
-patrick.fowler@protonmail.com | 636-489-9461
+patrick.fowler@protonmail.com
 
 ---
-**Professional Experience**
+
+## Professional Experience
 
 **Role Title**  
-Charles Schwab & Co., Phoenix, AZ  
-February 2021 - January 2024
+Charles Schwab & Co., Phoenix, AZ
